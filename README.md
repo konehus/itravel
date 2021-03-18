@@ -1,4 +1,4 @@
-#`iTravel`
+#iTravel
 
 User 
 ----
@@ -26,7 +26,6 @@ Tools and Technologies
     - spring-doc open api 
     - hibernate-validator 
     - lombok
-    - 
 - JDK(`v11.0.9)`
 - Spring Framework
 - Hibernate
